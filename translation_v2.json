@@ -1,15 +1,9 @@
 {
    "comment":"https://wiki.wdf.sap.corp/wiki/display/SLS/Translation+Configuration+File+for+GIT+Workflow",
    "collections":[{
-         "collectionName":"collection_a",
+         "collectionName":"collection_a1",
          "folders":[{
             "startingFolderPath":"**/collection_a/",
-            "sourceFilters":["**/*.properties"]
-         }]
-   },{
-         "collectionName":"collection_b",
-         "folders":[{
-            "startingFolderPath":"**/collection_b/",
             "sourceFilters":["**/*.properties"]
          }]
    }],
